@@ -1,1 +1,4 @@
+Utilizado Framework ReactJs(desenvolvido com Typescript);
 
+Por se tratar de uma Api Fake, alguns acessos a api não mostram resultado "palpável",
+mas retornam o response 200 (OK);
