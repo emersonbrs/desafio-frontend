@@ -2,3 +2,8 @@ Utilizado Framework ReactJs(desenvolvido com Typescript);
 
 Por se tratar de uma Api Fake, alguns acessos a api não mostram resultado "palpável",
 mas retornam o response 200 (OK);
+
+# Para instalar e rodar a aplicação após fazer o clone do repositório:
+    Entre na pasta 'desafio-frontend-master';
+    Rode 'yarn' (pelo prompt de comando) na raiz do projeto para instalar todas as dependências usadas na aplicação;
+    Rode 'yarn start' para executar a aplicação.
